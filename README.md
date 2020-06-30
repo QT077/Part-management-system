@@ -10,5 +10,5 @@
 - 前端移动端采用vue+vant框架
 - 前端web端采用vue+Elementui框架
 - 使用回溯算法处理生成推荐订单
-详细代码见：
+- 详细代码见：
 https://gitee.com/meadvc/Part-management-system
